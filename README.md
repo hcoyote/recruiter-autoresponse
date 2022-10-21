@@ -3,7 +3,7 @@ Based on the Medium Article entitled - "[Career Advice Nobody Gave Me: Never ign
 
 This is licensed under MIT so please feel free to fork and use as you'd like. 
 
-If you like it, please consider leaving a github star.  I think that it would be super cool to see how many people this helps.
+If you like it, please consider leaving a github star over at [the original repo](https://github.com/AlexChesser/recruiter-autoresponse).  I think that it would be super cool to see how many people this helps.
 
 ## the autoresponse
 
